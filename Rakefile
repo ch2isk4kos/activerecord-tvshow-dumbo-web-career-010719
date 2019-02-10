@@ -1,4 +1,6 @@
+# require 'active_directory'
 require_relative 'config/environment.rb'
+# require 'active_directory'
 
 namespace :db do
 
